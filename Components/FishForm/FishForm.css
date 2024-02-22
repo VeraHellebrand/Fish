@@ -1,0 +1,27 @@
+.fish-form {
+   display: flex;
+   width: 500px;
+   margin:  50px 0;
+   justify-content: space-between;
+   align-items: center;
+}
+fieldset {
+   padding: 5px 10px;
+}
+legend{
+   font-weight: bold;
+}
+input {
+   margin: 0 5px;
+   padding: 5px;
+}
+.list-btn {
+   background-color: green;
+   color: white;
+   padding: 10px;
+   border-radius: 10px;
+   border: none;
+}
+.list-btn:hover{
+   background-color: rgb(30, 196, 30);
+}

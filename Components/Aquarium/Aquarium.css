@@ -1,0 +1,25 @@
+.aquarium {
+   display: flex;
+   flex-direction: column;
+   width: 500px;
+   margin: 50px 0;
+   padding-top: 0;
+   justify-content: space-between;
+   align-items: center;
+ }
+ h2 {
+   color: white;
+ }
+p {
+   line-height: 2;
+}
+.authorize-btn {
+   color: white;
+   padding: 10px;
+   border-radius: 10px;
+   border: none;
+   margin: 10px auto;
+}
+.aquarium input {
+   width: 80px;
+}
